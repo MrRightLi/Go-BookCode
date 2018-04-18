@@ -1,0 +1,2 @@
+INFO: 2017/10/27 09:59:17 listing11.go:44: Special Information
+ERROR: 2017/10/27 09:59:17 listing11.go:46: Something has failed
